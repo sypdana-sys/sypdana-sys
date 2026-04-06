@@ -1,10 +1,11 @@
 ## Hi there 👋
-###🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <!--
 **sypdana-sys/sypdana-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
